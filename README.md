@@ -6,7 +6,7 @@
 
 ## Informações de aprendizados
 
-- Este é um projeto desenvolvido aprender `Jest`;
+- Este é um projeto desenvolvido para aprender `Jest`;
 - Este é um projeto desenvolvido para praticar `JavaScript`;
 - Primeiro projeto utilizando `Jest`
 - Utilizei a extensão [Code Runner][Code Runner] executar minhas funções.
