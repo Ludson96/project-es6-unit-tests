@@ -1,4 +1,4 @@
-# Repositório do projeto JavaScript Unit Test
+# Repositório do projeto ES6 e Testes Unitários
 
 ## Módulo: FUNDAMENTOS
 
