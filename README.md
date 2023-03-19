@@ -1,8 +1,8 @@
-# Repositório do projeto ES6 e Testes Unitários
+# Repositório do projeto ES6 e Testes Unitários 🧪y
 
 ## Módulo: FUNDAMENTOS
 
- Repositório possuí projeto desenvolvido no período que estive na **Trybe**, abordando sobre conceitos de criação de várias funções para atender aos requisitos propostos e/ou testes unitários para garantir que as implementações das funções estão corretas.
+ Repositório possuí projeto desenvolvido no período que estive na **Trybe**, abordando sobre conceitos de testes unitários para garantir que as implementações das funções estejam corretas.
 
 ## Informações de aprendizados
 
