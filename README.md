@@ -1,4 +1,4 @@
-# Repositório do projeto ES6 e Testes Unitários 🧪y
+# Repositório do projeto ES6 e Testes Unitários 🧪
 
 ## Módulo: FUNDAMENTOS
 
